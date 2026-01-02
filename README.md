@@ -115,7 +115,7 @@ Streamlit Dashboard & TXT Report Export 📈📄
 Khin La Pyae Woon  
 AI-Enhanced Ethical Hacking | Cyber Defense | Digital Forensics | Analyze | Developing 
 
-Portfolio: khinlapyaewoon-cyberdev.vercel.app  
+Portfolio: https://khinlapyaewoon-cyberdev.vercel.app  
 LinkedIn: www.linkedin.com/in/khin-la-pyae-woon-ba59183a2  
 WhatsApp: https://wa.me/qr/MJYX74CQ5VA4D1
 
@@ -132,3 +132,4 @@ This tool is strictly for **educational, defensive, and research purposes**.
 - Unauthorized analysis  
 
 SCWLA v3 is designed to **raise awareness, improve defense, and support secure system hardening — never to attack**.
+
